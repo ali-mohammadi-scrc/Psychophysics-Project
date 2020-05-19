@@ -19,7 +19,7 @@ A total of 180 trials, 10 times for each face in each location will perform.
 
 A sample dataset consist of the data of 12 subjects is available in this repository as an example.
 
-![See Psychometric_Function.png](/Psychometric_Function.png)
+![See Psychometric_Functions.png](/Psychometric_Functions.png)
 
 # Acknowledge
 
